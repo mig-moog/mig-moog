@@ -4,7 +4,7 @@
 ```
       ,-^~~~~--.          ___________________________________
      /  👁   ^  \      </ This is my 🎇totally awesome✨,   \
-    :    👃 👁  👂     \ github page. Thanks for stopping by.|
+    :    👃 👁  👂     | github page. Thanks for stopping by.|
     | \ 👄 /    |      `------------------------------------'
     \\_______/_,'       
       ,__| |__.  
@@ -16,7 +16,7 @@
        ||   ||
        🦶   🦶
 ```
-Check my [twitter](http://twitter.com/mig_moog) to see what I'm working on.
+Check my **[twitter](http://twitter.com/mig_moog)** to see what I'm working on.
 
 <!--
 **mig-moog/mig-moog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
