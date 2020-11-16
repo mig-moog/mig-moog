@@ -2,10 +2,10 @@
 ## I am Mig Moog and I create art and video games
 
 ```
-      ,-^~~~~--.          ______________________________
-     /  👁   ^  \      </ I'm a hobbyist game developer,\
-    :    👃 👁  👂     | textmode, and pixel artist.    |
-    | \ 👄 /    |      '-------------------------------'
+      ,-^~~~~--.          ___________________________________
+     /  👁   ^  \      </ This is my 🎇totally awesome✨,   \
+    :    👃 👁  👂     \ github page. Thanks for stopping by.|
+    | \ 👄 /    |      `------------------------------------'
     \\_______/_,'       
       ,__| |__.  
     // | 👕  | \\ 
