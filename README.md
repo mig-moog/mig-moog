@@ -1,4 +1,22 @@
-### Hi there 👋
+### Greetings from the furthest reaches of the pixel dimension
+## I am Mig Moog and I create art and video games
+
+```
+      ,-^~~~~--.          ______________________________
+     /  👁   ^  \      </ I'm a hobbyist game developer,\
+    :    👃 👁  👂     | textmode, and pixel artist.    |
+    | \ 👄 /    |      '-------------------------------'
+    \\_______/_,'       
+      ,__| |__.  
+    // | 👕  | \\ 
+    (| \     / |)       
+     👇 ):👖:(  👇         
+       / ___ \            
+       |/   \|  
+       ||   ||
+       🦶   🦶
+```
+Check my [twitter](http://twitter.com/mig_moog) to see what I'm working on.
 
 <!--
 **mig-moog/mig-moog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
