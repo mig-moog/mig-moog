@@ -1,5 +1,5 @@
 ### Greetings from the furthest reaches of the pixel dimension
-#### I am Mig Moog and I create art and video games
+#### I am <span style="color:orange">**Mig Moog**</span> and I create art and video games
 
 ```
       ,-^~~~~--.          ___________________________________
