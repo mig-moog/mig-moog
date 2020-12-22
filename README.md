@@ -1,5 +1,5 @@
 <h3 align="center">Greetings from the furthest reaches of the pixel dimension</h3>
-<h1 align="center">I am <p font-weight="bold">Mig Moog</p> and I create art and video games</h1>
+<h1 align="center">I am Mig Moog and I create art and video games</h1>
 
 ```
       ,-^~~~~--.          ___________________________________
