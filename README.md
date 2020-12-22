@@ -1,5 +1,5 @@
-<h3 style="text-align: center;">Greetings from the furthest reaches of the pixel dimension</h3>
-#### I am <span style="color: orange;">**Mig Moog**</span> and I create art and video games
+<h3 align="center">Greetings from the furthest reaches of the pixel dimension</h3>
+<h1 align="center">I am <span style="color: orange;">**Mig Moog**</span> and I create art and video games</h1>
 
 ```
       ,-^~~~~--.          ___________________________________
